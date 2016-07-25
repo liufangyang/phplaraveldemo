@@ -1,4 +1,4 @@
-@extends(layouts.master)
+@extends('layouts.master')
 @section('content')
-<h1>I greet you!</h1>
+<div class = "centered"><h1>I greet {{ $name === null ? 'you' : $name}}!</h1></div>
 @endsection

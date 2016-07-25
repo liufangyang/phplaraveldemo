@@ -1,10 +1,10 @@
 <header>
     <nav>
         <ul>
-       <li><a herf="#">Home</a></li>
-       <li><a herf="#">About</a></li>
-       <li><a herf="#">Blog</a></li>
-       <li><a herf="#">Contact</a></li>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">About</a></li>
+       <li><a href="#">Blog</a></li>
+       <li><a href="#">Contact</a></li>
        </ul>
     </nav>
 </header>
