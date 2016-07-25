@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('home');
 });
+
+
+Route::get('/greet', function () {
+    return view('actions.greet');
+}) -> name('greet');

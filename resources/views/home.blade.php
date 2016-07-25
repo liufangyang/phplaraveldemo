@@ -2,12 +2,8 @@
 
 @section('content')
 <div class="centered">
-    <p>
-    This thing is cool! This thing is cool! This thing is cool! 
-    This thing is cool! This thing is cool! This thing is cool! 
-    This thing is cool! This thing is cool! This thing is cool! 
-    This thing is cool!
-    </p>
+   
+    <a href = "{{route('greet')}}">greet</a>
    
 </div>
 @endsection
